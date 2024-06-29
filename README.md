@@ -15,7 +15,6 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 </div>
 <div align="center">  
      <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=josetorresdesign" />
-     <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josetorresdesign&show_icons=true&layout=compact" />
 </div>
 
 <img src="https://camo.githubusercontent.com/82291b0fe831bfc6781e07fc5090cbd0a8b912bb8b8d4fec0696c881834f81ac/68747470733a2f2f70726f626f742e6d656469612f394575424971676170492e676966" width="1200" height="3">
