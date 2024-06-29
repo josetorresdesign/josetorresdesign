@@ -8,24 +8,6 @@
 I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented individual👩‍💻 with decent moral values and ethics🙇‍♀️ along with a high-energy level🤹‍♀️, honed communication skills👐, strong organizational skills👮‍♀️, and meticulous attention🕵️‍♀️ to detail.
 </samp>
 
---------------------------
-
-<img
-  align="right"
-  width="300"
-  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
-  alt="Coding"
-/>
-
---------------------------
-
-<!--
-<p align="center">
-     <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />&emsp;
-     <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="100px" height="100px">&emsp;
-     <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" /> 
-</p>
--->
 <p align="center">
 <div align="center">
      <img
