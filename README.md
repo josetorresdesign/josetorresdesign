@@ -11,9 +11,9 @@ I am a creative🎡, time punctual👩‍🎓, dedicated🎯, goal-oriented indi
 <p align="center">
 <div align="center">
      <img
-        src="https://github-profile-trophy.vercel.app/?username=josetorresdesign&no-bg=true&no-frame=true&row=1&column=7">
+        src="https://github-profile-trophy.vercel.app/?username=josetorresdesign&no-bg=true&no-frame=true&row=1&column=7&theme=onedark">
 </div>
-<div align="center">  
+<div align="center">
      <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=josetorresdesign" />
 </div>
 
